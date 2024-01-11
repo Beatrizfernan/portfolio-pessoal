@@ -1,0 +1,95 @@
+{
+    "basic_info": {
+      "description_header": "Hi ",
+      "description": "👋 I'm Beatriz Fernandes, Full Stack development enthusiast and Software Engineering student at the Federal University of Ceará. I studied the Full Stack course at Rockeatseat and improved my skills through Udemy courses. With experience in both frontend and backend, I currently work as a backend developer at the startup Bmo-Be More. Committed to quality and innovation, I aspire to contribute to incredible technological solutions.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },"projects": [
+      {
+        "title": "Food(Back-end)",
+        "startDate": "2023",
+        "description": "API developed to manage information about dishes, users, and sessions. It provides basic Create, Read, Update, and Delete (CRUD) operations for entities such as dishes and users. Additionally, it includes user authentication and access control for specific operations.",
+        "images": [
+          "images/portfolio/foodexplore/p1.jpg",
+          "images/portfolio/foodexplore/p2.jpg"
+        ],
+        "url": "https://github.com/Beatrizfernan/apiFoodExplorer",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-express-original colored",
+            "name": "express"
+          },
+          {
+            "class": "devicon-sqlite-plain",
+            "name": "sqlite"
+          }
+        ]
+      },
+      {
+        "title": "Movies(Back-end)",
+        "startDate": "2023",
+        "description": "A platform for managing notes and information about movies! This API allows users to store titles, ratings, and notes associated with movies they have watched.",
+        "images": [
+          "images/portfolio/movies/p1.jpg",
+          "images/portfolio/movies/p2.jpg"
+        ],
+        "url": "https://github.com/Beatrizfernan/backend-rocketmovies",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain colored",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Notes(Front-end)",
+        "startDate": "2023",
+        "description": "It is an application designed to simplify the process of saving and managing useful links. Its frontend was developed using React, providing an interactive and responsive experience for users.",
+        "images": [
+          "images/portfolio/notes/p1.jpg",
+          "images/portfolio/notes/p2.jpg"
+        ],
+        "url": "https://github.com/Beatrizfernan/Rocketnotes",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-original colored",
+            "name": "react"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "BMO-Be More",
+        "title": "Back-End Developer",
+        "years": "06.2023 - atualmente",
+        "mainTech": [
+          "Python",
+          "Django",
+          "Docker"
+        ],
+        "technologies": [
+          "REST API",
+          "Python",
+          "Django",
+          "Docker"
+        ]
+      }
+    ]
+  }
